@@ -3,12 +3,14 @@
 This project contains meeting notes, agenda items, and other project/release
 management artifacts that don't fit easily into PRs or Issues.
 
-## Meetings
+## Core Team Meeting
 
-#### Core Team
+### Purpose
 
-The core team plans to meet at least once a month to discuss project direction, collaboratively triage issues and PRs,
+The core team meets at least once a month to discuss project direction, collaboratively triage issues and PRs,
 and plan releases.
+
+### Previous Meetings
 
 | №  | Date                             | Agenda      | Notes          |
 | -- | -------------------------------- | ----------- | -------------- |
