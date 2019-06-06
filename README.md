@@ -7,8 +7,7 @@ management artifacts that don't fit easily into PRs or Issues.
 
 ### Purpose
 
-The core team meets at least once a month to discuss project direction, collaboratively triage issues and PRs,
-and plan releases.
+The core team meets to discuss project direction, collaboratively triage issues and PRs, and plan releases.
 
 ### Previous Meetings
 
